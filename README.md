@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/LucasDLalande/conwaysGoL/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/LucasDLalande/conwaysGoL/actions)
 <!-- badges: end -->
 
 The goal of `conwaysGoL` is to provide an easy-to-handle package to
