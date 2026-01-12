@@ -165,6 +165,6 @@ This package is under the MIT License.
 
 To cite the `conwaysGoL` package in your publications, please use:
 
-Lalande LD (2026). *conwaysGoL: An easy-to-handle Conway’s Game of Life
-simulator for R*. R package version 1.0.0,
-<https://github.com/LucasDLalande/conwaysGoL.git>.
+> Lalande LD (2026). *conwaysGoL: An easy-to-handle Conway’s Game of
+> Life simulator for R*. R package version 1.0.0,
+> <https://github.com/LucasDLalande/conwaysGoL.git>.
