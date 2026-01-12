@@ -1,11 +1,26 @@
 Package: conwaysGoL
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: A small package to toy around with Conway's game of life
+Version: 1.0.0
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Lucas", "Lalande", , "lalande.luke@gmail.com", role = c("aut", "cre"), comment = c(ORCID = "0000-0001-9319-8033"))
+Description: `conwayGoL` is a small package designed to toy around with Conway's Game of Life.
+    It allows to observe the evolution of artificial life across generations on a torroidal grid.
+    The characteristics of the initial generation can be decided (a random grid with a chose proportion of living and dead cells, one or more specific patterns).
+    Users have the possibility to use patterns store in the patterns library available with the package and to permanently add their own patterns to it.
+    They can also convert `.rle` files into binary matrices compatible with the package functions. 
+License: MIT + file LICENSE
 Encoding: UTF-8
+LazyData: true
+URL: https://github.com/LucasDLalande/conwaysGoL
+BugReports: https://github.com/LucasDLalande/conwaysGoL/issues
+Imports:
+    graphics,
+    grDevices,
+    magick
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3
+Depends: R (>= 4.1.0)
+Suggests: 
+    testthat (>= 3.0.0),
+    withr
+Config/testthat/edition: 3
