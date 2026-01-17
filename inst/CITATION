@@ -1,0 +1,14 @@
+citHeader("To cite conwaysGoL in publications, please use:")
+bibentry(
+  bibtype  = "Manual",
+  title    = "conwaysGoL: An easy-to-handle Conway’s Game of Life simulator for R",
+  author   = person(
+    c("Lucas", "D."), "Lalande",
+    email = "lalande.luke@gmail.com",
+    role = c("aut", "cre"),
+    comment = c("0000-0001-9319-8033")
+  ),
+  year     = 2026,
+  note     = "R package version 1.0.0",
+  url = "https://github.com/LucasDLalande/conwaysGoL.git"
+)
