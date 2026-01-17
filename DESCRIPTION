@@ -1,6 +1,6 @@
 Package: conwaysGoL
 Title: An easy-to-handle Conway’s Game of Life simulator for R
-Version: 1.0.0
+Version: 0.1.0
 Authors@R: 
     person("Lucas", "Lalande", , "lalande.luke@gmail.com", role = c("aut", "cre"), comment = c(ORCID = "0000-0001-9319-8033"))
 Description: `conwayGoL` is a small package designed to toy around with Conway's Game of Life.
