@@ -1,14 +1,13 @@
-# conwaysGoL 0.1.0 - 2026-01-17
+# conwaysGoL 0.1.1 - 2026-01-18
 
 ### Added
-- Initial implementation of Conway's Game of Life
-- Core simulation functions
+None
 
 ### Changed
 None
 
 ### Fixed
-None
+Metadata update for Zenodo release (no code changes)
 
 ### Deprecated
 None
